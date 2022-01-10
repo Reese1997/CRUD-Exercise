@@ -1,0 +1,13 @@
+
+
+
+input[type='submit'], button, [aria-label]{
+  cursor: pointer;
+  background-color: rgb(162, 203, 204);
+}
+#editForm{
+  display: none;
+}
+#counter {
+    font-weight: bold;
+}
